@@ -34,6 +34,8 @@ else:
                 print("you win")
     elif(computer==0 and you==-1):
                 print("you lose")
+    elif(computer==1 and you==-1):
+                print("you lose")
     else:
            print("something wrong")
 
